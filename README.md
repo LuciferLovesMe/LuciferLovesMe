@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&usqp=CAU)
+![MasterHead](https://miro.medium.com/max/1200/0*4ty0Adbdg4dsVBo3.png)
 <h1 align="center">Hi 👋, I'm Maulana Malik Ibrahimm</h1>
 <h3 align="center">A Junior Laravel, .Net, SQL and Mobile Developer</h3>
 
