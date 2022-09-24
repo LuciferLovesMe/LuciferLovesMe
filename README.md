@@ -1,4 +1,4 @@
-![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSounmay%2FSounmay%2Fblob%2Fmaster%2FREADME.md&psig=AOvVaw2WBygU94MjlelRgbPQzVhr&ust=1664118488532000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCjydLarfoCFQAAAAAdAAAAABAD)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&usqp=CAU))
+![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Maulana Malik Ibrahimm</h1>
 <h3 align="center">A Junior Laravel, .Net, SQL and Mobile Developer</h3>
 
