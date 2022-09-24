@@ -1,4 +1,4 @@
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Maulana Malik Ibrahimm</h1>
 <h3 align="center">A Junior Laravel, .Net, SQL and Mobile Developer</h3>
 
