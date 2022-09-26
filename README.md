@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/max/1200/0*4ty0Adbdg4dsVBo3.png)
-<h1 align="center">Hi 👋, I'm Maulana Malik Ibrahimm</h1>
+<h1 align="center">Hi 👋, I'm Maulana Malik Ibrahim</h1>
 <h3 align="center">A Junior Laravel, .Net, SQL and Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciferlovesme&label=Profile%20views&color=0e75b6&style=flat" alt="luciferlovesme" /> </p>
