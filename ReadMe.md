@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Currently I'm a Developer at 3-Founder<br>🌱 I'm Currently Learning about Web, Desktop, API, and Mobile Development<br>💬 Ask Me About Anything That I Know :))<br>⚡ Fun Fact My Hair Is My Fun Fact<br>
+👨‍💻 Currently I'm a Freelance Developer<br>🌱 I'm Currently Learning about Artificial Intelegence, Data Science, and Mobile Development<br>💬 Ask Me About Anything That I Know :))<br>⚡ Fun Fact My Hair Is My Fun Fact<br>
 
 
 ## 🌐 Socials:
